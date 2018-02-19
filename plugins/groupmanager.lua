@@ -1,5 +1,5 @@
---begin groupmanager by @BeyondTeam :)
---This Is Self Bot Based On BDReborn :D
+--begin groupmanager by @saeed2829 :)
+--This Is Self Bot Based On ss2244 :D
 local function action_by_reply(arg, data)
    local cmd = arg.cmd
    local msg = arg.msg
