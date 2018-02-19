@@ -1,5 +1,5 @@
 -- #Beyond Self Robot
--- #@BeyondTeam
+-- #@saeed2829
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -149,7 +149,7 @@ An fun bot based on BDReborn
 》And Beyond Team Members
 
 》Our channel :
-》@BeyondTeam《
+》@saeed2829《
 
 》Our website :
 》http://BeyondTeam.ir
