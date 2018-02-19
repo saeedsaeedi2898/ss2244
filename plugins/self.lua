@@ -4,7 +4,7 @@
 #        Self Plugin           #
 #                              #
 #                              #
-#     by @SoLiD ⇨Saeid⇦       #
+#     by @saeed2829 ⇨saeed⇦   #
 #                              #
 #                              #
 #   Team Channel @saeed2829    #
@@ -13,7 +13,7 @@
 #     Update: 2 March 2017     #
 #                              #
 #       Special Thx To         # 
-#     @Exacute for idea        #
+#     @saeed2829 for idea      #
 #                              #
 ################################
 ]]
