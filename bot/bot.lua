@@ -133,26 +133,26 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Self Bot V3.0
-An fun bot based on BDReborn
+An fun bot based on ss2244
 
 》https://github.com/saeedsaeedi2898/ss2244.git 
 
 》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer & Sponser《
-》@ToOfan ➣ Developer《
+》@saeed2829 ➣ saeed28 & saeed《
+》@saeed2829 ➣ saeed & saeed《
+》@saeed2829 ➣ 28《
 
 》Special thanks to :
-》@kuncen
-》@Vysheng
-》@MrHalix
+》@saeed2829
+》@saeed2829
+》@saeed2829
 》And Beyond Team Members
 
 》Our channel :
 》@saeed2829《
 
 》Our website :
-》http://BeyondTeam.ir
+》https://t.me/saeed2829
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
