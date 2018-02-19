@@ -135,7 +135,7 @@ function create_config( )
     info_text = [[》Beyond Self Bot V3.0
 An fun bot based on BDReborn
 
-》https://github.com/BeyondTeam/BDSelf 
+》https://github.com/saeedsaeedi2898/ss2244.git 
 
 》Admins :
 》@SoLiD ➣ Founder & Developer《
